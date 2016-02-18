@@ -1,0 +1,60 @@
+name: "Tomas Kral"
+
+# URL
+baseurl: ""
+permalink: pretty
+
+# Markdown
+markdown: kramdown
+
+# Navigation
+nav:
+ - name: "github"
+   href: "https://github.com/kadel"
+ - name: "twitter"
+   href: "https://twitter.com/kadel"
+ - name: "facebook"
+   href: "https://facebook.com/tomas.kral"
+ - name: "linkedin"
+   href: "https://linkedin.com/in/kraltomas"
+
+# Google Analytics Tracking ID
+gaid: UA-10563500-4
+
+# Sass
+sass:
+ style: :compressed
+
+# Scopes
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Github Pages default
+kramdown:
+  input: GFM
+hard_wrap: false
+gems:
+  - jekyll-coffeescript
+  - jekyll-paginate
+
+# Github Pages forced
+lsi: false
+safe: true
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+
+exclude:
+    - Dockerfile

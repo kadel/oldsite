@@ -19,7 +19,7 @@ nav:
    href: "https://linkedin.com/in/kraltomas"
 
 # Google Analytics Tracking ID
-gaid: UA-10563500-4
+gaid: "UA-10563500-4"
 
 # Sass
 sass:

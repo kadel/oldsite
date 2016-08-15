@@ -47,6 +47,7 @@ hard_wrap: false
 gems:
   - jekyll-coffeescript
   - jekyll-paginate
+  - jemoji
 
 # Github Pages forced
 lsi: false

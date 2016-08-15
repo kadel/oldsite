@@ -235,6 +235,12 @@ img {
   border-radius: 5px;
 }
 
+.emoji {
+  display: inline;
+  margin: 0;
+  border-radius: 0;
+}
+
 table {
   margin-bottom: 1rem;
   width: 100%;
@@ -371,6 +377,11 @@ tbody tr:nth-child(odd) th {
     color: #333;
   }
 }
+
+.comments {
+    margin-top: 4rem;
+}
+
 
 .highlight .hll { background-color: #ffffcc }
 .highlight .c { color: #999988; font-style: italic } /* Comment */

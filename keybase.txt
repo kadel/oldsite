@@ -1,0 +1,80 @@
+==================================================================
+https://keybase.io/tomaskral
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://tomkral.eu
+  * I am tomaskral (https://keybase.io/tomaskral) on keybase.
+  * I have a public key with fingerprint E4A4 3FE4 4620 8597 647F  B587 E690 DA7E 4F29 1FA6
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01014216fe330dff8047b8aaaeff6029c021c0e46024256fbbbef58127e57dbc53280a",
+            "fingerprint": "e4a43fe446208597647fb587e690da7e4f291fa6",
+            "host": "keybase.io",
+            "key_id": "e690da7e4f291fa6",
+            "kid": "01014216fe330dff8047b8aaaeff6029c021c0e46024256fbbbef58127e57dbc53280a",
+            "uid": "f87240c6117efb3d97aad5aed4772400",
+            "username": "tomaskral"
+        },
+        "revoke": {
+            "sig_ids": [
+                "8827fb6aff5528160a032ea45d86cb29f5ddaf0f1f82d3642a3c50f0fd0d107c0f"
+            ]
+        },
+        "service": {
+            "hostname": "tomkral.eu",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1471434685,
+    "expire_in": 157680000,
+    "prev": "10beb7bea0613f43e0df1911d9bfb7a6dea9e3d579707d6a824e60e79ccc67b3",
+    "seqno": 14,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v2
+
+owGtUm1QVFUYXkiMKF1jmWboA/Bu4QALc+73vRu0pYIUIsoMwWjOzrn3nguXhd1l
+d4EQpLEZ0CaVDz+QCSZNU0rQIWwysEyaseFTsUmhGohPQUX5krGE6F6mpj/97Pw5
+57zneZ/ned/zlq96QufrNVb+c3FSWPBpr44JQZd6IelKISY4pALMXIjZ0PKGsiTk
+9lhtioSZMYADnCJwRkYkCSRZ5gDFChyEEMkyAwheBAQuAkSpZ4qgGVkQBCTTHE6w
+iGYlQaRJggMQM2GyYk9HLqdLsXtUWkRBipQRRTEE4GieZShWFmiORQwPJMgiSiZ4
+XIaMmpjhcGsZqjkBulGU4lBj6sW6bO8/8P+z79xlOpljCQqIDI6zSBZIiWchlGiI
+JIrVHoAGdCOXHWYjFe1xZEO3zQWzsN0mzIXyHDakNdatpKuu3Zh5B8ZxhFowA2WZ
+pgkOZwAEJIEgRUscIwoEL9OSBGUg4zJHSCRDEZAUaaAGJCDhgBWBjO1UuVXJPEVc
+Jtfa9K+8Jh6FclVbTpfD4xAdWWo8w+NxmjVLngKnhmvKR4L1bwqroNgl9YvUjDzk
+cisOO2bGVajoUTROnGJxiqQYjjZh6F2n4kJWRUPQLMMBdWk6KE/lxIGABFZAEDA4
+KVMkUpuP8zgu8YIssJCREOQRKdEszwJWYiBHUIgBiOVFUWRYgcS0onLsDk1SNQrT
+VU61b3boyXUhbLffB94vrtB5+epW+nhrw6vze2rNPxNdjOv/jBq1RCfVZOqltd1r
+w4cvfx+zwX9XQVV+4sXPrD6XS8cbvw6cmqurujm6siuyLjV5YfDmg/5Y36kjlt96
+D2wZPfTDF10zrpjk1Iuf3n3uVHH1UmXWwycrLX6W8kOxDW3Bt7qb7o0sTd//dvWB
+cOWV7vvQ3Te0eN66Pu7IWz9uCgr3pKVMdR+eaZ0/+ficEMGYG1sC9m855uJ6Hj24
+V/L64hsjC+0JzmOGj/1iI0ZDTP6z0yG/B8K2uqOdkZbN/XeSgw83Gn3eqfENer6n
+9qpXy8P9zWczgxt0YR22kbiqvhNGcvT28IWqnvhdhtlLLbj/qJ9QshDddnykrnaS
+bko47atvmOnozQgzpc30B9rK2LK3h2+9lPfrCzGfXA+cwDoNYRkB+vGAg/MDp+bO
+8gX9cX2JYTe2d1lB4/ob2T7+hTrnCUNd87zp8wqs+cof53uv/3J3VW1pe7ti2hxZ
+v3WNvwkW6LadjJ39ctNQmW6f65lJY/2KwT21X223hczEvDZwZ2t95rrv9PmYMbti
+em+yISRn7HZoynh0ZagJ9AwWJV5rNQ7kL8Zf867duUPKeb+3dNtR09iZhm9S0vZs
+9KHWnUkwskvvhRgi0zE2eYMpqPoxHvFq0d5LnU8vHh+yTE18NPlsZrX5Q/2b3gdX
+Y4/2VUx2RMZHOdsHiq62nkOhL5fM6efjalK9O35q+ws=
+=e18p
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tomaskral
+
+==================================================================
+

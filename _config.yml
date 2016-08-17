@@ -2,7 +2,7 @@ name: "Tomas Kral"
 
 # URL
 baseurl: ""
-permalink: pretty
+permalink: ":title.html"
 
 # Markdown
 markdown: kramdown
